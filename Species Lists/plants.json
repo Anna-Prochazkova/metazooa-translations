@@ -5,7 +5,8 @@
     "name": "almond",
     "parent": 3754,
     "name_es": "almendra",
-    "name_de": "Mandel"
+    "name_de": "Mandel",
+    "name_cz": "mandloň obecná"
   },
   {
     "node": 3752,
@@ -13,7 +14,8 @@
     "name": "apple",
     "parent": 3749,
     "name_es": "manzana",
-    "name_de": "Apfel"
+    "name_de": "Apfel",
+    "name_cz": "jabloň lesní"
   },
   {
     "node": 36596,
@@ -21,7 +23,8 @@
     "name": "apricot",
     "parent": 3754,
     "name_es": "albaricoque",
-    "name_de": "Aprikose"
+    "name_de": "Aprikose",
+    "name_cz": "meruňka obecná"
   },
   {
     "node": 4686,
@@ -29,7 +32,8 @@
     "name": "asparagus",
     "parent": 4685,
     "name_es": "espárragos",
-    "name_de": "Spargel"
+    "name_de": "Spargel",
+    "name_cz": "chřest lékařský"
   },
   {
     "node": 3435,
@@ -37,7 +41,8 @@
     "name": "avocado",
     "parent": 3434,
     "name_es": "palta",
-    "name_de": "Avocado"
+    "name_de": "Avocado",
+    "name_cz": "hruškovec přelahodný \"avokádo\""
   },
   {
     "node": 13216,
@@ -45,7 +50,8 @@
     "name": "black pepper",
     "parent": 13215,
     "name_es": "pimienta negra",
-    "name_de": "Schwarzer Pfeffer"
+    "name_de": "Schwarzer Pfeffer",
+    "name_cz": "pepřovník černý"
   },
   {
     "node": 3645,
@@ -53,7 +59,8 @@
     "name": "brazil nut",
     "parent": 3644,
     "name_es": "nuez de Brasil",
-    "name_de": "Paranuss"
+    "name_de": "Paranuss",
+    "name_cz": "juvie ztepilá \"para ořech\""
   },
   {
     "node": 194251,
@@ -61,7 +68,8 @@
     "name": "breadfruit",
     "parent": 3488,
     "name_es": "panapen",
-    "name_de": "Brotfrucht"
+    "name_de": "Brotfrucht",
+    "name_cz": "chlebovník obecný"
   },
   {
     "node": 3617,
@@ -69,7 +77,8 @@
     "name": "buckwheat",
     "parent": 3616,
     "name_es": "alforfón",
-    "name_de": "Buchweizen"
+    "name_de": "Buchweizen",
+    "name_cz": "pohanka obecná"
   },
   {
     "node": 3641,
@@ -77,7 +86,8 @@
     "name": "cacao",
     "parent": 3640,
     "name_es": "cacao",
-    "name_de": "Kakao"
+    "name_de": "Kakao",
+    "name_cz": "kakaovník pravý"
   },
   {
     "node": 3656,
@@ -85,7 +95,8 @@
     "name": "melon",
     "parent": 3655,
     "name_es": "melón",
-    "name_de": "Melone"
+    "name_de": "Melone",
+    "name_cz": "meloun cukrový"
   },
   {
     "node": 105181,
@@ -93,7 +104,8 @@
     "name": "cardamom",
     "parent": 105180,
     "name_es": "cardamomo",
-    "name_de": "Kardamom"
+    "name_de": "Kardamom",
+    "name_cz": "kardamom obecný"
   },
   {
     "node": 171929,
@@ -101,7 +113,8 @@
     "name": "cashew",
     "parent": 171928,
     "name_es": "anacardo",
-    "name_de": "Cashew"
+    "name_de": "Cashew",
+    "name_cz": "ledvinovník západní \"kešu\""
   },
   {
     "node": 3983,
@@ -109,7 +122,8 @@
     "name": "cassava",
     "parent": 3982,
     "name_es": "mandioca",
-    "name_de": "Maniok"
+    "name_de": "Maniok",
+    "name_cz": "maniok jedlý"
   },
   {
     "node": 4045,
@@ -117,7 +131,8 @@
     "name": "celery",
     "parent": 4044,
     "name_es": "apio",
-    "name_de": "Sellerie"
+    "name_de": "Sellerie",
+    "name_cz": "miřík celer"
   },
   {
     "node": 21020,
@@ -125,7 +140,8 @@
     "name": "chestnut",
     "parent": 21019,
     "name_es": "castaña",
-    "name_de": "Kastanie"
+    "name_de": "Kastanie",
+    "name_cz": "kaštanovník jedlý"
   },
   {
     "node": 13427,
@@ -133,7 +149,8 @@
     "name": "chicory",
     "parent": 13426,
     "name_es": "achicoria",
-    "name_de": "Chicorée"
+    "name_de": "Chicorée",
+    "name_cz": "čekanka obecná"
   },
   {
     "node": 128608,
@@ -141,7 +158,8 @@
     "name": "cinnamon",
     "parent": 13428,
     "name_es": "canela",
-    "name_de": "Zimt"
+    "name_de": "Zimt",
+    "name_cz": "skořicovník pravý"
   },
   {
     "node": 13894,
@@ -149,7 +167,8 @@
     "name": "coconut",
     "parent": 13893,
     "name_es": "coco",
-    "name_de": "Kokosnuss"
+    "name_de": "Kokosnuss",
+    "name_cz": "kokosovník ořechoplodý"
   },
   {
     "node": 4577,
@@ -157,7 +176,8 @@
     "name": "corn",
     "parent": 4575,
     "name_es": "maíz",
-    "name_de": "Mais"
+    "name_de": "Mais",
+    "name_cz": "kukuřice setá"
   },
   {
     "node": 3659,
@@ -165,7 +185,8 @@
     "name": "cucumber",
     "parent": 3655,
     "name_es": "pepino",
-    "name_de": "Gurke"
+    "name_de": "Gurke",
+    "name_cz": "okurka setá"
   },
   {
     "node": 42345,
@@ -173,7 +194,8 @@
     "name": "date",
     "parent": 4719,
     "name_es": "fecha",
-    "name_de": "Dattel"
+    "name_de": "Dattel",
+    "name_cz": "datlovník pravý"
   },
   {
     "node": 13451,
@@ -181,7 +203,8 @@
     "name": "hazelnut",
     "parent": 13450,
     "name_es": "avellana",
-    "name_de": "Haselnuss"
+    "name_de": "Haselnuss",
+    "name_cz": "líska obecná"
   },
   {
     "node": 4006,
@@ -189,7 +212,8 @@
     "name": "flax",
     "parent": 4005,
     "name_es": "linaza",
-    "name_de": "Lein"
+    "name_de": "Lein",
+    "name_cz": "len setý"
   },
   {
     "node": 4682,
@@ -197,7 +221,8 @@
     "name": "garlic",
     "parent": 4678,
     "name_es": "ajo",
-    "name_de": "Knoblauch"
+    "name_de": "Knoblauch",
+    "name_cz": "česnek kuchyňský"
   },
   {
     "node": 94328,
@@ -205,7 +230,8 @@
     "name": "ginger",
     "parent": 4650,
     "name_es": "jengibre",
-    "name_de": "Ingwer"
+    "name_de": "Ingwer",
+    "name_cz": "zázvor lékařský"
   },
   {
     "node": 29760,
@@ -213,7 +239,8 @@
     "name": "grape",
     "parent": 3603,
     "name_es": "uva",
-    "name_de": "Weintraube"
+    "name_de": "Weintraube",
+    "name_cz": "réva vinná"
   },
   {
     "node": 4509,
@@ -221,7 +248,8 @@
     "name": "orchard grass",
     "parent": 4508,
     "name_es": "hierba de huerto",
-    "name_de": "Knaulgras"
+    "name_de": "Knaulgras",
+    "name_cz": "srha laločnatá"
   },
   {
     "node": 120290,
@@ -229,7 +257,8 @@
     "name": "guava",
     "parent": 120289,
     "name_es": "guayaba",
-    "name_de": "Guave"
+    "name_de": "Guave",
+    "name_cz": "kvajava hrušková"
   },
   {
     "node": 3483,
@@ -237,7 +266,8 @@
     "name": "hemp",
     "parent": 3482,
     "name_es": "cáñamo",
-    "name_de": "Hanf"
+    "name_de": "Hanf",
+    "name_cz": "konopí seté"
   },
   {
     "node": 141191,
@@ -245,7 +275,8 @@
     "name": "henna",
     "parent": 141190,
     "name_es": "alheña",
-    "name_de": "Henna"
+    "name_de": "Henna",
+    "name_cz": "henna bílá"
   },
   {
     "node": 3486,
@@ -253,7 +284,8 @@
     "name": "hop",
     "parent": 3484,
     "name_es": "brincar",
-    "name_de": "Hopfen"
+    "name_de": "Hopfen",
+    "name_cz": "chmel otáčivý"
   },
   {
     "node": 3704,
@@ -261,7 +293,8 @@
     "name": "horseradish",
     "parent": 3703,
     "name_es": "rábano picante",
-    "name_de": "Meerrettich"
+    "name_de": "Meerrettich",
+    "name_cz": "křen selský"
   },
   {
     "node": 66014,
@@ -269,7 +302,8 @@
     "name": "lemongrass",
     "parent": 66013,
     "name_es": "la hierba de limón",
-    "name_de": "Zitronengras"
+    "name_de": "Zitronengras",
+    "name_cz": "voňatka citronová"
   },
   {
     "node": 4236,
@@ -277,7 +311,8 @@
     "name": "lettuce",
     "parent": 4235,
     "name_es": "lechuga",
-    "name_de": "Kopfsalat"
+    "name_de": "Kopfsalat",
+    "name_cz": "mandloň obecná"
   },
   {
     "node": 151069,
@@ -285,7 +320,8 @@
     "name": "lychee",
     "parent": 151068,
     "name_es": "lychee",
-    "name_de": "Litschi"
+    "name_de": "Litschi",
+    "name_cz": "liči čínské"
   },
   {
     "node": 60698,
@@ -293,7 +329,8 @@
     "name": "macadamia nut",
     "parent": 4329,
     "name_es": "nuez de macadamia",
-    "name_de": "Macadamianuss"
+    "name_de": "Macadamianuss",
+    "name_cz": "makadamie celolistá"
   },
   {
     "node": 51089,
@@ -301,7 +338,8 @@
     "name": "mace",
     "parent": 51088,
     "name_es": "mazo",
-    "name_de": "Muskatblüte"
+    "name_de": "Muskatblüte",
+    "name_cz": "muškátovník vonný"
   },
   {
     "node": 39510,
@@ -309,7 +347,8 @@
     "name": "agave",
     "parent": 39509,
     "name_es": "agave",
-    "name_de": "Agave"
+    "name_de": "Agave",
+    "name_cz": "agáve obecná"
   },
   {
     "node": 85571,
@@ -317,7 +356,8 @@
     "name": "mandarin",
     "parent": 2706,
     "name_es": "mandarín",
-    "name_de": "Mandarine"
+    "name_de": "Mandarine",
+    "name_cz": "mandarinka obecná"
   },
   {
     "node": 29780,
@@ -325,7 +365,8 @@
     "name": "mango",
     "parent": 23461,
     "name_es": "mango",
-    "name_de": "Mango"
+    "name_de": "Mango",
+    "name_cz": "mangovník indický"
   },
   {
     "node": 3498,
@@ -333,7 +374,8 @@
     "name": "silkworm mulberry",
     "parent": 3497,
     "name_es": "morera de gusano de seda",
-    "name_de": "Weiße Maulbeere"
+    "name_de": "Weiße Maulbeere",
+    "name_cz": "morušovník bílý"
   },
   {
     "node": 3710,
@@ -341,7 +383,8 @@
     "name": "black mustard",
     "parent": 3705,
     "name_es": "mostaza negra",
-    "name_de": "Schwarzer Senf"
+    "name_de": "Schwarzer Senf",
+    "name_cz": "brukev černá"
   },
   {
     "node": 51953,
@@ -349,7 +392,8 @@
     "name": "oil palm",
     "parent": 51952,
     "name_es": "aceite de palma",
-    "name_de": "Ölpalme"
+    "name_de": "Ölpalme",
+    "name_cz": "olejnice guinejská - palma olejná"
   },
   {
     "node": 455045,
@@ -357,7 +401,8 @@
     "name": "okra",
     "parent": 183218,
     "name_es": "okra",
-    "name_de": "Okra"
+    "name_de": "Okra",
+    "name_cz": "ibiškovec jedlý - okra"
   },
   {
     "node": 4146,
@@ -365,7 +410,8 @@
     "name": "olive",
     "parent": 4145,
     "name_es": "aceituna",
-    "name_de": "Olive"
+    "name_de": "Olive",
+    "name_cz": "olivovník evropský"
   },
   {
     "node": 3649,
@@ -373,7 +419,8 @@
     "name": "papaya",
     "parent": 3648,
     "name_es": "papaya",
-    "name_de": "Papaya"
+    "name_de": "Papaya",
+    "name_cz": "papája obecná"
   },
   {
     "node": 4041,
@@ -381,7 +428,8 @@
     "name": "parsnip",
     "parent": 4040,
     "name_es": "chirivía",
-    "name_de": "Pastinake"
+    "name_de": "Pastinake",
+    "name_cz": "pastinák setý"
   },
   {
     "node": 3760,
@@ -389,7 +437,8 @@
     "name": "peach",
     "parent": 3754,
     "name_es": "durazno",
-    "name_de": "Pfirsich"
+    "name_de": "Pfirsich",
+    "name_cz": "broskvoň obecná"
   },
   {
     "node": 23211,
@@ -397,7 +446,8 @@
     "name": "pear",
     "parent": 3766,
     "name_es": "pera",
-    "name_de": "Birne"
+    "name_de": "Birne",
+    "name_cz": "hrušeň obecná"
   },
   {
     "node": 13493,
@@ -405,7 +455,8 @@
     "name": "persimmon",
     "parent": 13492,
     "name_es": "caqui",
-    "name_de": "Persimone"
+    "name_de": "Persimone",
+    "name_cz": "tomel viržinský"
   },
   {
     "node": 55513,
@@ -413,7 +464,8 @@
     "name": "pistachio",
     "parent": 55512,
     "name_es": "pistacho",
-    "name_de": "Pistazie"
+    "name_de": "Pistazie",
+    "name_cz": "řečík pistáciový"
   },
   {
     "node": 3758,
@@ -421,7 +473,8 @@
     "name": "plum",
     "parent": 3754,
     "name_es": "ciruela",
-    "name_de": "Pflaume"
+    "name_de": "Pflaume",
+    "name_cz": "slivoň švestka"
   },
   {
     "node": 22663,
@@ -429,7 +482,8 @@
     "name": "pomegranate",
     "parent": 22662,
     "name_es": "granada",
-    "name_de": "Granatapfel"
+    "name_de": "Granatapfel",
+    "name_cz": "marhaník granátový"
   },
   {
     "node": 3469,
@@ -437,7 +491,8 @@
     "name": "poppy",
     "parent": 3468,
     "name_es": "amapola",
-    "name_de": "Mohn"
+    "name_de": "Mohn",
+    "name_cz": "mák setý"
   },
   {
     "node": 4120,
@@ -445,7 +500,8 @@
     "name": "sweet potato",
     "parent": 4119,
     "name_es": "batata",
-    "name_de": "Süßkartoffel"
+    "name_de": "Süßkartoffel",
+    "name_cz": "povijnice batátová"
   },
   {
     "node": 63459,
@@ -453,7 +509,8 @@
     "name": "quinoa",
     "parent": 3558,
     "name_es": "quinua",
-    "name_de": "Quinoa"
+    "name_de": "Quinoa",
+    "name_cz": "merlík chilský"
   },
   {
     "node": 3726,
@@ -461,7 +518,8 @@
     "name": "radish",
     "parent": 3725,
     "name_es": "rábano",
-    "name_de": "Radieschen"
+    "name_de": "Radieschen",
+    "name_cz": "ředkev setá - ředkvička"
   },
   {
     "node": 4530,
@@ -469,7 +527,8 @@
     "name": "rice",
     "parent": 4527,
     "name_es": "arroz",
-    "name_de": "Reis"
+    "name_de": "Reis",
+    "name_cz": "rýže setá"
   },
   {
     "node": 3981,
@@ -477,7 +536,8 @@
     "name": "rubber",
     "parent": 3980,
     "name_es": "goma",
-    "name_de": "Kautschuk"
+    "name_de": "Kautschuk",
+    "name_cz": "kaučukovník brazilský"
   },
   {
     "node": 4550,
@@ -485,7 +545,8 @@
     "name": "rye",
     "parent": 4549,
     "name_es": "centeno",
-    "name_de": "Roggen"
+    "name_de": "Roggen",
+    "name_cz": "žito seté"
   },
   {
     "node": 292385,
@@ -493,7 +554,8 @@
     "name": "shea nut",
     "parent": 292384,
     "name_es": "karité",
-    "name_de": "Sheanuss"
+    "name_de": "Sheanuss",
+    "name_cz": "máslovník africký - bambucké máslo"
   },
   {
     "node": 4182,
@@ -501,7 +563,8 @@
     "name": "sesame",
     "parent": 4181,
     "name_es": "sésamo",
-    "name_de": "Sesam"
+    "name_de": "Sesam",
+    "name_cz": "sezam indický"
   },
   {
     "node": 58933,
@@ -509,7 +572,8 @@
     "name": "spelt",
     "parent": 4564,
     "name_es": "espelta",
-    "name_de": "Dinkel"
+    "name_de": "Dinkel",
+    "name_cz": "pšenice špalda"
   },
   {
     "node": 3562,
@@ -517,7 +581,8 @@
     "name": "spinach",
     "parent": 3561,
     "name_es": "espinaca",
-    "name_de": "Spinat"
+    "name_de": "Spinat",
+    "name_cz": "špenát setý"
   },
   {
     "node": 4232,
@@ -525,7 +590,8 @@
     "name": "sunflower",
     "parent": 4231,
     "name_es": "girasol",
-    "name_de": "Sonnenblume"
+    "name_de": "Sonnenblume",
+    "name_cz": "slunečnice roční"
   },
   {
     "node": 4072,
@@ -533,7 +599,8 @@
     "name": "sweet pepper",
     "parent": 4071,
     "name_es": "pimienta dulce",
-    "name_de": "Paprika"
+    "name_de": "Paprika",
+    "name_cz": "paprika setá"
   },
   {
     "node": 4460,
@@ -541,7 +608,8 @@
     "name": "taro",
     "parent": 4459,
     "name_es": "taro",
-    "name_de": "Taro"
+    "name_de": "Taro",
+    "name_cz": "kolokázie jedlá - taro"
   },
   {
     "node": 4442,
@@ -549,7 +617,8 @@
     "name": "tea",
     "parent": 4441,
     "name_es": "té",
-    "name_de": "Tee"
+    "name_de": "Tee",
+    "name_cz": "čajovník čínský"
   },
   {
     "node": 4097,
@@ -557,7 +626,8 @@
     "name": "tobacco",
     "parent": 4085,
     "name_es": "tabaco",
-    "name_de": "Tabak"
+    "name_de": "Tabak",
+    "name_cz": "tabák virginský"
   },
   {
     "node": 51239,
@@ -565,7 +635,8 @@
     "name": "vanilla",
     "parent": 51238,
     "name_es": "vainilla",
-    "name_de": "Vanille"
+    "name_de": "Vanille",
+    "name_cz": "vanilovník plocholistý"
   },
   {
     "node": 3654,
@@ -573,7 +644,8 @@
     "name": "watermelon",
     "parent": 3653,
     "name_es": "sandía",
-    "name_de": "Wassermelone"
+    "name_de": "Wassermelone",
+    "name_cz": "lubenice obecná - meloun"
   },
   {
     "node": 4565,
@@ -581,7 +653,8 @@
     "name": "wheat",
     "parent": 4564,
     "name_es": "trigo",
-    "name_de": "Weizen"
+    "name_de": "Weizen",
+    "name_cz": "pšenice setá"
   },
   {
     "node": 69109,
@@ -589,7 +662,8 @@
     "name": "baobab",
     "parent": 69108,
     "name_es": "baobab",
-    "name_de": "Baobab"
+    "name_de": "Baobab",
+    "name_cz": "baobab prstnatý"
   },
   {
     "node": 75706,
@@ -597,7 +671,8 @@
     "name": "weeping willow",
     "parent": 40685,
     "name_es": "sauce llorón",
-    "name_de": "Trauerweide"
+    "name_de": "Trauerweide",
+    "name_cz": "vrba babylónská"
   },
   {
     "node": 3505,
@@ -605,7 +680,8 @@
     "name": "silver birch",
     "parent": 3504,
     "name_es": "abedul de plata",
-    "name_de": "Hängebirke"
+    "name_de": "Hängebirke",
+    "name_cz": "bříza bělokorá"
   },
   {
     "node": 99814,
@@ -613,7 +689,8 @@
     "name": "giant sequoia",
     "parent": 99813,
     "name_es": "sequoia gigante",
-    "name_de": "Riesenmammutbaum"
+    "name_de": "Riesenmammutbaum",
+    "name_cz": "sekvojovec obrovský"
   },
   {
     "node": 3357,
@@ -621,7 +698,8 @@
     "name": "douglas fir",
     "parent": 3356,
     "name_es": "abeto de douglas",
-    "name_de": "Douglasie"
+    "name_de": "Douglasie",
+    "name_cz": "douglaska tisolistá"
   },
   {
     "node": 93692,
@@ -629,7 +707,8 @@
     "name": "cedar of lebanon",
     "parent": 3321,
     "name_es": "cedro del Líbano",
-    "name_de": "Libanon-Zeder"
+    "name_de": "Libanon-Zeder",
+    "name_cz": "cedr libanonský"
   },
   {
     "node": 3349,
@@ -637,7 +716,8 @@
     "name": "baltic pine",
     "parent": 139271,
     "name_es": "pino báltico",
-    "name_de": "Waldkiefer"
+    "name_de": "Waldkiefer",
+    "name_cz": "borovice lesní"
   },
   {
     "node": 3329,
@@ -645,7 +725,8 @@
     "name": "spruce",
     "parent": 3328,
     "name_es": "abeto",
-    "name_de": "Fichte"
+    "name_de": "Fichte",
+    "name_cz": "smrk ztepilý"
   },
   {
     "node": 4081,
@@ -653,7 +734,8 @@
     "name": "tomato",
     "parent": 49274,
     "name_es": "tomate",
-    "name_de": "Tomate"
+    "name_de": "Tomate",
+    "name_cz": "lilek rajče"
   },
   {
     "node": 223891,
@@ -661,7 +743,8 @@
     "name": "eggplant",
     "parent": 4107,
     "name_es": "berenjena",
-    "name_de": "Aubergine"
+    "name_de": "Aubergine",
+    "name_cz": "lilek virginský"
   },
   {
     "node": 4113,
@@ -669,7 +752,8 @@
     "name": "potato",
     "parent": 4107,
     "name_es": "papa",
-    "name_de": "Kartoffel"
+    "name_de": "Kartoffel",
+    "name_cz": "lilek brambor"
   },
   {
     "node": 4679,
@@ -677,7 +761,8 @@
     "name": "onion",
     "parent": 4678,
     "name_es": "cebolla",
-    "name_de": "Zwiebel"
+    "name_de": "Zwiebel",
+    "name_cz": "cibule kuchyňská"
   },
   {
     "node": 4615,
@@ -685,7 +770,8 @@
     "name": "pineapple",
     "parent": 4614,
     "name_es": "piña",
-    "name_de": "Ananas"
+    "name_de": "Ananas",
+    "name_cz": "ananasovník chocholatý"
   },
   {
     "node": 38942,
@@ -693,7 +779,8 @@
     "name": "oak",
     "parent": 3511,
     "name_es": "roble",
-    "name_de": "Eiche"
+    "name_de": "Eiche",
+    "name_cz": "dub letní"
   },
   {
     "node": 28930,
@@ -701,7 +788,8 @@
     "name": "common beech",
     "parent": 21024,
     "name_es": "hayas comunes",
-    "name_de": "Rotbuche"
+    "name_de": "Rotbuche",
+    "name_cz": "buk lesní"
   },
   {
     "node": 3885,
@@ -709,7 +797,8 @@
     "name": "common bean",
     "parent": 3883,
     "name_es": "frijol común",
-    "name_de": "Gartenbohne"
+    "name_de": "Gartenbohne",
+    "name_cz": "fazol obecný"
   },
   {
     "node": 3906,
@@ -717,7 +806,8 @@
     "name": "fava bean",
     "parent": 3904,
     "name_es": "frijol fava",
-    "name_de": "Dicke Bohne"
+    "name_de": "Dicke Bohne",
+    "name_cz": "bob obecný"
   },
   {
     "node": 3847,
@@ -725,7 +815,8 @@
     "name": "soy bean",
     "parent": 1462606,
     "name_es": "soy bean",
-    "name_de": "Sojabohne"
+    "name_de": "Sojabohne",
+    "name_cz": "sója luštinatá"
   },
   {
     "node": 3888,
@@ -733,7 +824,8 @@
     "name": "garden pea",
     "parent": 3887,
     "name_es": "guisante de jardín",
-    "name_de": "Erbse"
+    "name_de": "Erbse",
+    "name_cz": "hrách setý"
   },
   {
     "node": 3917,
@@ -741,7 +833,8 @@
     "name": "black eyed pea",
     "parent": 3913,
     "name_es": "guisante de ojos negros",
-    "name_de": "Augenbohne"
+    "name_de": "Augenbohne",
+    "name_cz": "vigna čínská"
   },
   {
     "node": 3827,
@@ -749,7 +842,8 @@
     "name": "chickpea",
     "parent": 3826,
     "name_es": "garbanzo",
-    "name_de": "Kichererbse"
+    "name_de": "Kichererbse",
+    "name_cz": "cizrna beraní"
   },
   {
     "node": 3864,
@@ -757,7 +851,8 @@
     "name": "lentil",
     "parent": 3863,
     "name_es": "lenteja",
-    "name_de": "Linse"
+    "name_de": "Linse",
+    "name_cz": "čočka kuchyňská"
   },
   {
     "node": 3818,
@@ -765,7 +860,8 @@
     "name": "peanut",
     "parent": 3817,
     "name_es": "maní",
-    "name_de": "Erdnuss"
+    "name_de": "Erdnuss",
+    "name_cz": "podzemnice olejná"
   },
   {
     "node": 20340,
@@ -773,7 +869,8 @@
     "name": "carob",
     "parent": 20339,
     "name_es": "algarroba",
-    "name_de": "Johannisbrot"
+    "name_de": "Johannisbrot",
+    "name_cz": "rohovník obecný"
   },
   {
     "node": 49827,
@@ -781,7 +878,8 @@
     "name": "licorice",
     "parent": 46347,
     "name_es": "regaliz",
-    "name_de": "Süßholz"
+    "name_de": "Süßholz",
+    "name_cz": "lékořice lysá"
   },
   {
     "node": 138033,
@@ -789,7 +887,8 @@
     "name": "gum arabic tree",
     "parent": 468162,
     "name_es": "goma de goma de árbol árabe",
-    "name_de": "Gummiarabikumbaum"
+    "name_de": "Gummiarabikumbaum",
+    "name_cz": "akácie arabská"
   },
   {
     "node": 58860,
@@ -797,7 +896,8 @@
     "name": "tamarind",
     "parent": 58859,
     "name_es": "tamarindo",
-    "name_de": "Tamarinde"
+    "name_de": "Tamarinde",
+    "name_cz": "tamarind indický"
   },
   {
     "node": 3879,
@@ -805,7 +905,8 @@
     "name": "alfalfa",
     "parent": 3877,
     "name_es": "alfalfa",
-    "name_de": "Luzerne"
+    "name_de": "Luzerne",
+    "name_cz": "tolice vojtěška"
   },
   {
     "node": 3859,
@@ -813,7 +914,8 @@
     "name": "sweet pea",
     "parent": 3853,
     "name_es": "guisante dulce",
-    "name_de": "Duftwicke"
+    "name_de": "Duftwicke",
+    "name_cz": "hrachor vonný"
   },
   {
     "node": 76306,
@@ -821,7 +923,8 @@
     "name": "touch-me-not",
     "parent": 21013,
     "name_es": "nometoques",
-    "name_de": "Schamhafte Mimose"
+    "name_de": "Schamhafte Mimose",
+    "name_cz": "citlivka stydlivá"
   },
   {
     "node": 72402,
@@ -829,7 +932,8 @@
     "name": "senna",
     "parent": 53922,
     "name_es": "senna",
-    "name_de": "Sennes"
+    "name_de": "Sennes",
+    "name_cz": "sena pravá"
   },
   {
     "node": 3902,
@@ -837,7 +941,8 @@
     "name": "gorse",
     "parent": 3901,
     "name_es": "tojo",
-    "name_de": "Stechginster"
+    "name_de": "Stechginster",
+    "name_cz": "hlodáš evropský"
   },
   {
     "node": 171251,
@@ -845,7 +950,8 @@
     "name": "citron",
     "parent": 2706,
     "name_es": "cidra",
-    "name_de": "Zedrat"
+    "name_de": "Zedrat",
+    "name_cz": "cedrát"
   },
   {
     "node": 396733,
@@ -853,7 +959,8 @@
     "name": "rose",
     "parent": 3764,
     "name_es": "rosa",
-    "name_de": "Rose"
+    "name_de": "Rose",
+    "name_cz": "růže stolistá"
   },
   {
     "node": 159033,
@@ -861,7 +968,8 @@
     "name": "lime",
     "parent": 2706,
     "name_es": "cal",
-    "name_de": "Limette"
+    "name_de": "Limette",
+    "name_cz": "citroník mexická limeta"
   },
   {
     "node": 2708,
@@ -869,7 +977,8 @@
     "name": "lemon",
     "parent": 2706,
     "name_es": "limón",
-    "name_de": "Zitrone"
+    "name_de": "Zitrone",
+    "name_cz": "citroník limonový - citron"
   },
   {
     "node": 75806,
@@ -877,7 +986,8 @@
     "name": "wasabi",
     "parent": 98005,
     "name_es": "wasabi",
-    "name_de": "Wasabi"
+    "name_de": "Wasabi",
+    "name_cz": "eutrema japonská - wasabi"
   },
   {
     "node": 78817,
@@ -885,7 +995,8 @@
     "name": "orchid",
     "parent": 59329,
     "name_es": "orquídea",
-    "name_de": "Bienen-Ragwurz"
+    "name_de": "Bienen-Ragwurz",
+    "name_cz": "tořič včelonosný"
   },
   {
     "node": 4039,
@@ -893,7 +1004,8 @@
     "name": "carrot",
     "parent": 1873447,
     "name_es": "zanahoria",
-    "name_de": "Karotte"
+    "name_de": "Karotte",
+    "name_cz": "mrkev obecná"
   },
   {
     "node": 161934,
@@ -901,7 +1013,8 @@
     "name": "beetroot",
     "parent": 3554,
     "name_es": "raíz de remolacha",
-    "name_de": "Rote Bete"
+    "name_de": "Rote Bete",
+    "name_cz": "řepa obecná"
   },
   {
     "node": 42229,
@@ -909,7 +1022,8 @@
     "name": "cherry",
     "parent": 3754,
     "name_es": "cereza",
-    "name_de": "Kirsche"
+    "name_de": "Kirsche",
+    "name_cz": "třešeň ptačí"
   },
   {
     "node": 99038,
@@ -917,7 +1031,8 @@
     "name": "daisy",
     "parent": 1478145,
     "name_es": "margarita",
-    "name_de": "Speisecrysantheme"
+    "name_de": "Speisecrysantheme",
+    "name_cz": "zlateň věncová"
   },
   {
     "node": 94688,
@@ -925,7 +1040,8 @@
     "name": "moss",
     "parent": 80888,
     "name_es": "musgo",
-    "name_de": "Moos"
+    "name_de": "Moos",
+    "name_cz": "bělomech sivý"
   },
   {
     "node": 4681,
@@ -933,7 +1049,8 @@
     "name": "leek",
     "parent": 4678,
     "name_es": "puerro",
-    "name_de": "Porree"
+    "name_de": "Porree",
+    "name_cz": "pór letní"
   },
   {
     "node": 3663,
@@ -941,7 +1058,8 @@
     "name": "pumpkin",
     "parent": 3660,
     "name_es": "calabaza gigante",
-    "name_de": "Kürbis"
+    "name_de": "Kürbis",
+    "name_cz": "tykev obecná"
   },
   {
     "node": 3662,
@@ -949,7 +1067,8 @@
     "name": "butternut squash",
     "parent": 3660,
     "name_es": "ayote",
-    "name_de": "Butternusskürbis"
+    "name_de": "Butternusskürbis",
+    "name_cz": "tykev pižmová - máslová dýně"
   },
   {
     "node": 13306,
@@ -957,7 +1076,8 @@
     "name": "tulip",
     "parent": 13305,
     "name_es": "tulipán",
-    "name_de": "Tulpe"
+    "name_de": "Tulpe",
+    "name_cz": "tulipán zahradní"
   },
   {
     "node": 4024,
@@ -965,7 +1085,8 @@
     "name": "sugar maple",
     "parent": 4022,
     "name_es": "arce de azúcar",
-    "name_de": "Zuckerahorn"
+    "name_de": "Zuckerahorn",
+    "name_cz": "javor cukrový"
   },
   {
     "node": 190548,
@@ -973,7 +1094,8 @@
     "name": "blueberry",
     "parent": 13749,
     "name_es": "arándano azul",
-    "name_de": "Heidelbeere"
+    "name_de": "Heidelbeere",
+    "name_cz": "brusnice vlochyně"
   },
   {
     "node": 3747,
@@ -981,7 +1103,8 @@
     "name": "strawberry",
     "parent": 3746,
     "name_es": "fresa",
-    "name_de": "Erdbeere"
+    "name_de": "Erdbeere",
+    "name_cz": "jahodník zahradní"
   },
   {
     "node": 75062,
@@ -989,7 +1112,8 @@
     "name": "blackberry",
     "parent": 23216,
     "name_es": "mora",
-    "name_de": "Brombeere"
+    "name_de": "Brombeere",
+    "name_cz": "ostružiník alleghenský"
   },
   {
     "node": 32247,
@@ -997,7 +1121,8 @@
     "name": "raspberry",
     "parent": 23216,
     "name_es": "frambuesa",
-    "name_de": "Himbeere"
+    "name_de": "Himbeere",
+    "name_cz": "ostružiník maliník"
   },
   {
     "node": 13750,
@@ -1005,7 +1130,8 @@
     "name": "cranberry",
     "parent": 13749,
     "name_es": "arándano rojo",
-    "name_de": "Moosbeere"
+    "name_de": "Moosbeere",
+    "name_cz": "klikva velkoplodá - kanadská brusinka"
   },
   {
     "node": 3712,
@@ -1013,7 +1139,8 @@
     "name": "cabbage",
     "parent": 3705,
     "name_es": "repollo",
-    "name_de": "Kohl"
+    "name_de": "Kohl",
+    "name_cz": "brukev zelná"
   },
   {
     "node": 3711,
@@ -1021,7 +1148,8 @@
     "name": "bok choy",
     "parent": 3705,
     "name_es": "libro choy",
-    "name_de": "Pak Choi"
+    "name_de": "Pak Choi",
+    "name_cz": "brukev řepák"
   },
   {
     "node": 50225,
@@ -1029,7 +1157,8 @@
     "name": "dandelion",
     "parent": 49743,
     "name_es": "diente de león",
-    "name_de": "Löwenzahn"
+    "name_de": "Löwenzahn",
+    "name_cz": "pampeliška lékařská"
   },
   {
     "node": 29719,
@@ -1037,7 +1166,8 @@
     "name": "spearmint",
     "parent": 21819,
     "name_es": "menta verde",
-    "name_de": "Grüne Minze"
+    "name_de": "Grüne Minze",
+    "name_cz": "máta klasnatá"
   },
   {
     "node": 39350,
@@ -1045,7 +1175,8 @@
     "name": "basil",
     "parent": 39173,
     "name_es": "albahaca",
-    "name_de": "Basilikum"
+    "name_de": "Basilikum",
+    "name_cz": "bazalka pravá"
   },
   {
     "node": 13443,
@@ -1053,7 +1184,8 @@
     "name": "coffee",
     "parent": 13442,
     "name_es": "café",
-    "name_de": "Kaffee"
+    "name_de": "Kaffee",
+    "name_cz": "kávovník arabský"
   },
   {
     "node": 39329,
@@ -1061,7 +1193,8 @@
     "name": "lavender",
     "parent": 39169,
     "name_es": "lavanda",
-    "name_de": "Lavendel"
+    "name_de": "Lavendel",
+    "name_cz": "levandule lékařská"
   },
   {
     "node": 4043,
@@ -1069,7 +1202,8 @@
     "name": "parsley",
     "parent": 4042,
     "name_es": "perejil",
-    "name_de": "Petersilie"
+    "name_de": "Petersilie",
+    "name_cz": "petržel obecná"
   },
   {
     "node": 49992,
@@ -1077,7 +1211,8 @@
     "name": "thyme",
     "parent": 49990,
     "name_es": "tomillo",
-    "name_de": "Thymian"
+    "name_de": "Thymian",
+    "name_cz": "mateřídouška obecná"
   },
   {
     "node": 2711,
@@ -1085,7 +1220,8 @@
     "name": "orange",
     "parent": 2706,
     "name_es": "naranja",
-    "name_de": "Orange"
+    "name_de": "Orange",
+    "name_cz": "pomerančovník čínský"
   },
   {
     "node": 37656,
@@ -1093,7 +1229,8 @@
     "name": "grapefruit",
     "parent": 2706,
     "name_es": "pomelo",
-    "name_de": "Grapefruit"
+    "name_de": "Grapefruit",
+    "name_cz": "grepfruit"
   },
   {
     "node": 130122,
@@ -1101,7 +1238,8 @@
     "name": "cactus",
     "parent": 130120,
     "name_es": "cactus",
-    "name_de": "Kaktus"
+    "name_de": "Kaktus",
+    "name_cz": "ferokaktus"
   },
   {
     "node": 355937,
@@ -1109,7 +1247,8 @@
     "name": "tumbleweed",
     "parent": 151233,
     "name_es": "envoltía",
-    "name_de": "Steppenroller"
+    "name_de": "Steppenroller",
+    "name_cz": "slanobýl obecný"
   },
   {
     "node": 43853,
@@ -1117,7 +1256,8 @@
     "name": "poison ivy",
     "parent": 43852,
     "name_es": "hiedra venenosa",
-    "name_de": "Giftsumach"
+    "name_de": "Giftsumach",
+    "name_cz": "jedovatec kořenující"
   },
   {
     "node": 4498,
@@ -1125,7 +1265,8 @@
     "name": "oat",
     "parent": 4496,
     "name_es": "avena",
-    "name_de": "Hafer"
+    "name_de": "Hafer",
+    "name_cz": "oves setý"
   },
   {
     "node": 4513,
@@ -1133,7 +1274,8 @@
     "name": "barley",
     "parent": 4512,
     "name_es": "cebada",
-    "name_de": "Gerste"
+    "name_de": "Gerste",
+    "name_cz": "ječmen obecný"
   },
   {
     "node": 4026,
@@ -1141,7 +1283,8 @@
     "name": "sycamore",
     "parent": 4022,
     "name_es": "sicomoro",
-    "name_de": "Bergahorn"
+    "name_de": "Bergahorn",
+    "name_cz": "javor klen"
   },
   {
     "node": 79002,
@@ -1149,7 +1292,8 @@
     "name": "tiger lily",
     "parent": 4688,
     "name_es": "lirio de tigre",
-    "name_de": "Tigerlilie"
+    "name_de": "Tigerlilie",
+    "name_cz": "lilie tygrovaná"
   },
   {
     "node": 3635,
@@ -1157,7 +1301,8 @@
     "name": "cotton",
     "parent": 3633,
     "name_es": "algodón",
-    "name_de": "Baumwolle"
+    "name_de": "Baumwolle",
+    "name_cz": "bavlník chlupatý"
   },
   {
     "node": 3627,
@@ -1165,7 +1310,8 @@
     "name": "kiwi",
     "parent": 3624,
     "name_es": "kiwi",
-    "name_de": "Kiwi"
+    "name_de": "Kiwi",
+    "name_cz": "aktinidie lahodná - kiwi"
   },
   {
     "node": 76314,
@@ -1173,7 +1319,8 @@
     "name": "seaweed",
     "parent": 76312,
     "name_es": "algas marinas",
-    "name_de": "Meeresalge"
+    "name_de": "Meeresalge",
+    "name_cz": "lazucha prorůstavá"
   },
   {
     "node": 318051,
@@ -1181,7 +1328,8 @@
     "name": "bamboo",
     "parent": 4581,
     "name_es": "bambú",
-    "name_de": "Bambus"
+    "name_de": "Bambus",
+    "name_cz": "bambus"
   },
   {
     "node": 4265,
@@ -1189,7 +1337,8 @@
     "name": "artichoke",
     "parent": 4264,
     "name_es": "alcachofa",
-    "name_de": "Artischocke"
+    "name_de": "Artischocke",
+    "name_cz": "artyčok kardový"
   },
   {
     "node": 32201,
@@ -1197,7 +1346,8 @@
     "name": "pecan",
     "parent": 13402,
     "name_es": "pacana",
-    "name_de": "Pekannuss"
+    "name_de": "Pekannuss",
+    "name_cz": "ořechovec pekanový"
   },
   {
     "node": 4547,
@@ -1205,7 +1355,8 @@
     "name": "sugarcane",
     "parent": 286192,
     "name_es": "caña de azúcar",
-    "name_de": "Zuckerrohr"
+    "name_de": "Zuckerrohr",
+    "name_cz": "třtinovec cukrový"
   },
   {
     "node": 29710,
@@ -1213,7 +1364,8 @@
     "name": "yam",
     "parent": 4672,
     "name_es": "ñame",
-    "name_de": "Yams"
+    "name_de": "Yams",
+    "name_cz": "smldinec"
   },
   {
     "node": 3621,
@@ -1221,7 +1373,8 @@
     "name": "rhubarb",
     "parent": 3620,
     "name_es": "ruibarbo",
-    "name_de": "Rhabarber"
+    "name_de": "Rhabarber",
+    "name_cz": "reveň kadeřavá - rebarbora"
   },
   {
     "node": 146995,
@@ -1229,7 +1382,8 @@
     "name": "chrysanthemum",
     "parent": 13422,
     "name_es": "crisantemo",
-    "name_de": "Chrysantheme"
+    "name_de": "Chrysantheme",
+    "name_cz": "listopadka indická"
   },
   {
     "node": 361556,
@@ -1237,7 +1391,8 @@
     "name": "fern",
     "parent": 32081,
     "name_es": "helecho",
-    "name_de": "Farn"
+    "name_de": "Farn",
+    "name_cz": "cyatea"
   },
   {
     "node": 126433,
@@ -1245,7 +1400,8 @@
     "name": "jasmine",
     "parent": 4147,
     "name_es": "jazmín",
-    "name_de": "Jasmin"
+    "name_de": "Jasmin",
+    "name_cz": "jasmín pravý"
   },
   {
     "node": 34301,
@@ -1253,7 +1409,8 @@
     "name": "water lily",
     "parent": 4418,
     "name_es": "lirio de agua",
-    "name_de": "Seerose"
+    "name_de": "Seerose",
+    "name_cz": "leknín bílý"
   },
   {
     "node": 4432,
@@ -1261,7 +1418,8 @@
     "name": "lotus",
     "parent": 4430,
     "name_es": "loto",
-    "name_de": "Lotus"
+    "name_de": "Lotus",
+    "name_cz": "lotos ořechonosný"
   },
   {
     "node": 106335,
@@ -1269,7 +1427,8 @@
     "name": "hibiscus",
     "parent": 47605,
     "name_es": "hibisco",
-    "name_de": "Hibiskus"
+    "name_de": "Hibiskus",
+    "name_cz": "ibišek syrský"
   },
   {
     "node": 85868,
@@ -1277,7 +1436,8 @@
     "name": "magnolia",
     "parent": 3402,
     "name_es": "magnolia",
-    "name_de": "Magnolie"
+    "name_de": "Magnolie",
+    "name_cz": "šácholan Sieboldův"
   },
   {
     "node": 69717,
@@ -1285,7 +1445,8 @@
     "name": "peony",
     "parent": 13625,
     "name_es": "peonía",
-    "name_de": "Pfingstrose"
+    "name_de": "Pfingstrose",
+    "name_cz": "pivoňka lékařská"
   },
   {
     "node": 98504,
@@ -1293,7 +1454,8 @@
     "name": "chamomile",
     "parent": 56016,
     "name_es": "manzanilla",
-    "name_de": "Kamille"
+    "name_de": "Kamille",
+    "name_cz": "heřmánek pravý"
   },
   {
     "node": 54855,
@@ -1301,7 +1463,8 @@
     "name": "daffodil",
     "parent": 4697,
     "name_es": "narciso",
-    "name_de": "Narzisse"
+    "name_de": "Narzisse",
+    "name_cz": "narcis bílý"
   },
   {
     "node": 97021,
@@ -1309,7 +1472,8 @@
     "name": "clover",
     "parent": 3898,
     "name_es": "trébol",
-    "name_de": "Klee"
+    "name_de": "Klee",
+    "name_cz": "jetel pochybný"
   },
   {
     "node": 97424,
@@ -1317,7 +1481,8 @@
     "name": "violet",
     "parent": 2985427,
     "name_es": "violeta",
-    "name_de": "Veilchen"
+    "name_de": "Veilchen",
+    "name_cz": "violka americká"
   },
   {
     "node": 101596,
@@ -1325,7 +1490,8 @@
     "name": "dahlia",
     "parent": 41562,
     "name_es": "dalia",
-    "name_de": "Dahlie"
+    "name_de": "Dahlie",
+    "name_cz": "jiřinka zahradní"
   },
   {
     "node": 16719,
@@ -1333,7 +1499,8 @@
     "name": "walnut",
     "parent": 16718,
     "name_es": "nogul",
-    "name_de": "Walnuss"
+    "name_de": "Walnuss",
+    "name_cz": "ořešák černý"
   },
   {
     "node": 3494,
@@ -1341,7 +1508,8 @@
     "name": "fig",
     "parent": 3493,
     "name_es": "higo",
-    "name_de": "Feige"
+    "name_de": "Feige",
+    "name_cz": "fíkovník smokvoň"
   },
   {
     "node": 3570,
@@ -1349,7 +1517,8 @@
     "name": "carnation",
     "parent": 3569,
     "name_es": "clavel",
-    "name_de": "Nelke"
+    "name_de": "Nelke",
+    "name_cz": "hvozdík zahradní - karafiát"
   },
   {
     "node": 4362,
@@ -1357,7 +1526,8 @@
     "name": "venus flytrap",
     "parent": 4361,
     "name_es": "venus atrapamoscas",
-    "name_de": "Venusfliegenfalle"
+    "name_de": "Venusfliegenfalle",
+    "name_cz": "mucholapka podivná"
   },
   {
     "node": 89151,
@@ -1365,7 +1535,8 @@
     "name": "banana",
     "parent": 4640,
     "name_es": "banana",
-    "name_de": "Kochbanane"
+    "name_de": "Kochbanane",
+    "name_cz": "banánovník ovocný"
   },
   {
     "node": 1125938,
@@ -1373,7 +1544,8 @@
     "name": "dragon fruit",
     "parent": 83431,
     "name_es": "pitahaya",
-    "name_de": "Drachenfrucht"
+    "name_de": "Drachenfrucht",
+    "name_cz": "selenicereus"
   },
   {
     "node": 2849586,
@@ -1381,7 +1553,8 @@
     "name": "fennel",
     "parent": 40921,
     "name_es": "hinojo",
-    "name_de": "Fenchel"
+    "name_de": "Fenchel",
+    "name_cz": "fenykl obecný"
   },
   {
     "node": 40922,
@@ -1389,7 +1562,8 @@
     "name": "dill",
     "parent": 40921,
     "name_es": "eneldo",
-    "name_de": "Dill"
+    "name_de": "Dill",
+    "name_cz": "kopr vonný"
   },
   {
     "node": 36592,
@@ -1397,7 +1571,8 @@
     "name": "eucalyptus tree",
     "parent": 3932,
     "name_es": "árbol de eucalipto",
-    "name_de": "Eukalyptusbaum"
+    "name_de": "Eukalyptusbaum",
+    "name_cz": "blahovičník"
   },
   {
     "node": 65948,
@@ -1405,7 +1580,8 @@
     "name": "watercress",
     "parent": 65947,
     "name_es": "berro",
-    "name_de": "Brunnenkresse"
+    "name_de": "Brunnenkresse",
+    "name_cz": "potočnice lékařská"
   },
   {
     "node": 82025,
@@ -1413,7 +1589,8 @@
     "name": "hyacinth",
     "parent": 82024,
     "name_es": "jacinto",
-    "name_de": "Hyazinthe"
+    "name_de": "Hyazinthe",
+    "name_cz": "hyacint východní"
   },
   {
     "node": 3922,
@@ -1421,7 +1598,8 @@
     "name": "wisteria",
     "parent": 3921,
     "name_es": "glicinia",
-    "name_de": "Blauregen"
+    "name_de": "Blauregen",
+    "name_cz": "wistárie květnatá"
   },
   {
     "node": 35974,
@@ -1429,7 +1607,8 @@
     "name": "sandalwood",
     "parent": 35973,
     "name_es": "sándalo",
-    "name_de": "Sandelholz"
+    "name_de": "Sandelholz",
+    "name_cz": "santalovník bílý"
   },
   {
     "node": 12953,
@@ -1437,7 +1616,8 @@
     "name": "pawpaw",
     "parent": 12952,
     "name_es": "pawpaw",
-    "name_de": "Papau"
+    "name_de": "Papau",
+    "name_cz": "muďoul trojlaločný"
   },
   {
     "node": 4047,
@@ -1445,7 +1625,8 @@
     "name": "coriander",
     "parent": 4046,
     "name_es": "cilantro",
-    "name_de": "Koriander"
+    "name_de": "Koriander",
+    "name_cz": "koriandr setý"
   },
   {
     "node": 4054,
@@ -1453,7 +1634,8 @@
     "name": "ginseng",
     "parent": 4053,
     "name_es": "ginseng",
-    "name_de": "Ginseng"
+    "name_de": "Ginseng",
+    "name_cz": "ženšen pravý"
   },
   {
     "node": 271192,
@@ -1461,7 +1643,8 @@
     "name": "anise",
     "parent": 40958,
     "name_es": "anís",
-    "name_de": "Anis"
+    "name_de": "Anis",
+    "name_cz": "bedrník anýz"
   },
   {
     "node": 4298,
@@ -1469,7 +1652,8 @@
     "name": "holly",
     "parent": 4295,
     "name_es": "acebo",
-    "name_de": "Stechpalme"
+    "name_de": "Stechpalme",
+    "name_cz": "cesmína ostrolistá"
   },
   {
     "node": 155124,
@@ -1477,7 +1661,8 @@
     "name": "rooibos",
     "parent": 70004,
     "name_es": "rooibos",
-    "name_de": "Rooibos"
+    "name_de": "Rooibos",
+    "name_cz": "čajovec kapský - rooibos"
   },
   {
     "node": 4103,
@@ -1485,7 +1670,8 @@
     "name": "petunia",
     "parent": 4101,
     "name_es": "petunia",
-    "name_de": "Petunie"
+    "name_de": "Petunie",
+    "name_cz": "petunie fialová"
   },
   {
     "node": 3972,
@@ -1493,7 +1679,8 @@
     "name": "mistletoe",
     "parent": 3971,
     "name_es": "muérdago",
-    "name_de": "Mistel"
+    "name_de": "Mistel",
+    "name_cz": "jmelí bílé"
   },
   {
     "node": 289672,
@@ -1501,7 +1688,8 @@
     "name": "coca",
     "parent": 13511,
     "name_es": "coca",
-    "name_de": "Kokastrauch"
+    "name_de": "Kokastrauch",
+    "name_cz": "rudodřev koka"
   },
   {
     "node": 3988,
@@ -1509,7 +1697,8 @@
     "name": "ricin",
     "parent": 3987,
     "name_es": "ricina",
-    "name_de": "Rizinus"
+    "name_de": "Rizinus",
+    "name_cz": "skočec obecný"
   },
   {
     "node": 379952,
@@ -1517,7 +1706,8 @@
     "name": "geranium",
     "parent": 4028,
     "name_es": "geranio",
-    "name_de": "Storchschnabel"
+    "name_de": "Storchschnabel",
+    "name_cz": "kakost hnědočervený"
   },
   {
     "node": 3489,
@@ -1525,7 +1715,8 @@
     "name": "jackfruit",
     "parent": 3488,
     "name_es": "jackfruit",
-    "name_de": "Jackfrucht"
+    "name_de": "Jackfrucht",
+    "name_cz": "chlebovník různolistý - jackfruit"
   },
   {
     "node": 3501,
@@ -1533,7 +1724,8 @@
     "name": "nettle",
     "parent": 3500,
     "name_es": "ortiga",
-    "name_de": "Brennnessel"
+    "name_de": "Brennnessel",
+    "name_cz": "kopřiva dvoudomá"
   },
   {
     "node": 38868,
@@ -1541,7 +1733,8 @@
     "name": "sage",
     "parent": 2291027,
     "name_es": "salvia",
-    "name_de": "Salbei"
+    "name_de": "Salbei",
+    "name_cz": "šalvěj lékařská"
   },
   {
     "node": 39367,
@@ -1549,7 +1742,8 @@
     "name": "rosemary",
     "parent": 39177,
     "name_es": "romero",
-    "name_de": "Rosmarin"
+    "name_de": "Rosmarin",
+    "name_cz": "šalvěj rozmarýna"
   },
 
   {
@@ -1558,7 +1752,8 @@
     "name": "common ivy",
     "parent": 4051,
     "name_es": "hiedra común",
-    "name_de": "Gewöhnlicher Efeu"
+    "name_de": "Gewöhnlicher Efeu",
+    "name_cz": "břečťan popínavý"
   },
   {
     "node": 78168,
@@ -1566,7 +1761,8 @@
     "name": "passionfruit",
     "parent": 3684,
     "name_es": "fruta de la pasión",
-    "name_de": "Passionsfrucht"
+    "name_de": "Passionsfrucht",
+    "name_cz": "mučenka jedlá - marakuja"
   },
   {
     "node": 58228,
@@ -1574,7 +1770,8 @@
     "name": "mangosteen",
     "parent": 58227,
     "name_es": "mangostán",
-    "name_de": "Mangostan"
+    "name_de": "Mangostan",
+    "name_cz": "mangostana lahodná"
   },
   {
     "node": 40031,
@@ -1582,7 +1779,8 @@
     "name": "red mangrove",
     "parent": 40030,
     "name_es": "mangle rojo",
-    "name_de": "Rote Mangrove"
+    "name_de": "Rote Mangrove",
+    "name_cz": "kořenovník obecný"
   },
   {
     "node": 4543,
@@ -1590,7 +1788,8 @@
     "name": "pearl millet",
     "parent": 4583,
     "name_es": "mijo perla",
-    "name_de": "Perlhirse"
+    "name_de": "Perlhirse",
+    "name_cz": "ostrokvět americký"
   },
   {
     "node": 519065,
@@ -1598,7 +1797,8 @@
     "name": "forget-me-not",
     "parent": 192333,
     "name_es": "nomeolvides",
-    "name_de": "Vergissmeinnicht"
+    "name_de": "Vergissmeinnicht",
+    "name_cz": "pomněnka bahenní"
   },
   {
     "node": 72332,
@@ -1606,7 +1806,8 @@
     "name": "common wormwood",
     "parent": 4219,
     "name_es": "ajenjo",
-    "name_de": "Wermut"
+    "name_de": "Wermut",
+    "name_cz": "pelyněk pravý"
   },
   {
     "node": 4202,
@@ -1614,7 +1815,8 @@
     "name": "black elderberry",
     "parent": 4201,
     "name_es": "saúco negro",
-    "name_de": "Schwarzer Holunder"
+    "name_de": "Schwarzer Holunder",
+    "name_cz": "bez černý"
   },
   {
     "node": 4202,
@@ -1622,7 +1824,8 @@
     "name": "gooseberry",
     "parent": 4201,
     "name_es": "grosella",
-    "name_de": "Stachelbeere"
+    "name_de": "Stachelbeere",
+    "name_cz": "bez černý"
   },
   {
     "node": 32224,
@@ -1630,7 +1833,8 @@
     "name": "loquat",
     "parent": 23166,
     "name_es": "níspero",
-    "name_de": "Mispel"
+    "name_de": "Mispel",
+    "name_cz": "lokvát japonský"
   },
   {
     "node": 1041245,
@@ -1638,7 +1842,8 @@
     "name": "prickly pear",
     "parent": 106975,
     "name_es": "nopal",
-    "name_de": "Feigenkaktus"
+    "name_de": "Feigenkaktus",
+    "name_cz": "opuncie"
   },
   {
     "node": 130111,
@@ -1646,7 +1851,8 @@
     "name": "barrel cactus",
     "parent": 130110,
     "name_es": "cactus barril",
-    "name_de": "Schwiegermutterstuhl"
+    "name_de": "Schwiegermutterstuhl",
+    "name_cz": "echinokaktus Grusonův"
   },
   {
     "node": 3331,
@@ -1654,7 +1860,8 @@
     "name": "blue spruce",
     "parent": 3328,
     "name_es": "pícea azul",
-    "name_de": "Blaufichte"
+    "name_de": "Blaufichte",
+    "name_cz": "smrk pichlavý"
   },
   {
     "node": 105884,
@@ -1662,7 +1869,8 @@
     "name": "honeysuckle",
     "parent": 49606,
     "name_es": "madreselva",
-    "name_de": "Geißblatt"
+    "name_de": "Geißblatt",
+    "name_cz": "zimolez japonský"
   },
   {
     "node": 65558,
@@ -1670,7 +1878,8 @@
     "name": "caper",
     "parent": 13394,
     "name_es": "alcaparra",
-    "name_de": "Kapernstrauch"
+    "name_de": "Kapernstrauch",
+    "name_cz": "kapara trnitá"
   },
   {
     "node": 2675020,
@@ -1678,7 +1887,8 @@
     "name": "pitcher plant",
     "parent": 4375,
     "name_es": "planta jarra",
-    "name_de": "Kannenpflanze"
+    "name_de": "Kannenpflanze",
+    "name_cz": "láčkovka Attenboroughova"
   },
   {
     "node": 66656,
@@ -1686,7 +1896,8 @@
     "name": "durian",
     "parent": 66655,
     "name_es": "durián",
-    "name_de": "Durian"
+    "name_de": "Durian",
+    "name_cz": "durian cibetkový"
   },
   {
     "node": 136217,
@@ -1694,7 +1905,8 @@
     "name": "turmeric",
     "parent": 99568,
     "name_es": "cúrcuma",
-    "name_de": "Kurkuma"
+    "name_de": "Kurkuma",
+    "name_cz": "kurkuma dlouhá"
   },
   {
     "node": 3311,
@@ -1702,7 +1914,8 @@
     "name": "gingko",
     "parent": 3310,
     "name_es": "ginkgo",
-    "name_de": "Ginkgo"
+    "name_de": "Ginkgo",
+    "name_cz": "jinan dvoulaločný"
   },
   {
     "node": 34199,
@@ -1710,7 +1923,8 @@
     "name": "aloe",
     "parent": 25641,
     "name_es": "aloe",
-    "name_de": "Aloe"
+    "name_de": "Aloe",
+    "name_cz": "aloe pravá"
   },
   {
     "node": 119949,
@@ -1718,6 +1932,7 @@
     "name": "myrtle",
     "parent": 119948,
     "name_es": "mirto",
-    "name_de": "Myrte"
+    "name_de": "Myrte",
+    "name_cz": "myrta obecná"
   }
 ]
