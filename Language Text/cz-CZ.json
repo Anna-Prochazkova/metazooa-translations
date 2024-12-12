@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Mystery Animal",
+        "unique": "one Mystery Animal",
+        "indefinite": "a Mystery Animal",
+        "definite": "the Mystery Animal",
+        "demonstrative": "this"
+      },
+      "answer": "human",
+      "kingdom": {
+        "generic": "animals",
+        "concord": "s",
+        "unique": "an",
+        "definite": "the"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "zoo"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Záhadnou Rostlinu",
+        "unique": "Záhadná Rostlina",
+        "indefinite": "Záhadné Rostlině",
+        "definite": "the Mystery Plant",
+        "demonstrative": "this"
+      },
+      "answer": "lilek rajče",
+      "kingdom": {
+        "generic": "rostliny",
+        "concord": "s",
+        "unique": "a",
+        "definite": "the"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "botanické zahrady"
+    },
+    "keywords": {
+      "remaining": "zbývá",
+      "Click": "Klikněte",
+      "Tap": "Klepněte"
+    },
+    "home": {
+      "0": {
+        "0": "The animal kingdom (<i>Metazoa</i>, in Greek) is full of our distant relatives... some more distant than others! Metazooa is a game that tests how well you know our extended family tree.",
+        "1": "Rodokmen rostlinné říše (vědci ji nazývají <i>Viridiplantae</i>) je rozsáhlý a krásný... ale také složitý! Hra Metaflora prověří, jak dobře se dokážete v jeho zelených větvích orientovat."
+      },
+      "1": "Vaším cílem je uhodnout dnešní <b>{{species.generic}}</b> na co nejmenší počet pokusů. Nesprávné tipy postupně zužují oblast se správnou odpovědí podle taxonomické kategorie (říše, kmen, třída, řád atd.). Čím blíže má váš tip ke správné odpovědi, tím více se dozvíte o {{species.indefinite}}.",
+      "2": "Například pokud je odpovědí “{{answer}}”, vaše pokusy o uhodnutí mohou vytvořit strom, který bude vypadat třeba takto:",
+      "3": "Na každý den je pouze jedna {{species.unique}}, ale máte {{MAX_GUESSES}} pokusů na její odhalení! Nová hra začne za <b>{{nextGame}}</b>.",
+      "4": "Už jste dnešní {{species.generic}} našli?",
+      "5": "Zahraj si"
+    },
+    "game": {
+      "0": "Ukázat tabulku",
+      "1": "Správná odpověď a {{guess}} mají toto společné.",
+      "2": "{{click}} a zjistěte více",
+      "3": "Najděte tuto {{species.generic}}!",
+      "4": "Vyhráli jste! Správná odpověď je <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Vyhráli jste!",
+        "1": "Pokusy došly."
+      },
+      "2": "Sdílejte své skóre nebo si zahrajte cvičnou hru!",
+      "3": "Zahrajte si jinou hru od"
+    },
+    "share": {
+      "0": "Sdílejte",
+      "1": "Sdíleno!",
+      "2": "Zkopírováno!",
+      "3": "Nepodařilo se sdílet skóre."
+    },
+    "table": {
+      "0": "Úroveň",
+      "1": "Jméno",
+      "2": "Pokusy",
+      "3": "Nápovědy",
+      "4": "Zpět ke stromu"
+    },
+    "errors": {
+      "0": "Žádná chyba",
+      "1": "\"{{guess}}\" není v databázi",
+      "2": "To už jste zkoušeli"",
+      "3": "Správná odpověď je \"{{guess}}\"",
+      "4": "Máte na mysli \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Vstupte do {{menagerie}}!"
+    },
+    "footer": {
+      "0": "od Trainwreck Labs",
+      "1": "Připojte se k našemu Discord serveru!",
+      "2": "Chcete se na něco zeptat?",
+      "3": "Projděte si často kladené dotazy"
+    },
+    "hint": {
+      "0": "Potřebujete nápovědu? Vyměňte 3 pokusy za odhalení další taxonomické úrovně!",
+      "1": "Nápověda"
+    },
+    "wikipedia": {
+      "0": "Z Wikipedie",
+      "1": {
+        "Show": "Ukázat obrázek",
+        "Hide": "Skrýt obrázek"
+      }
+    },
+    "guesser": {
+      "0": "Pro začátek zadejte jakýkoli druh!",
+      "1": "Napište svůj další tip.",
+      "2": "Potvrdit"
+    },
+    "statistics": {
+      "0": "Statistika",
+      "1": "Hry",
+      "2": "Denní řada",
+      "3": "Odehráno",
+      "4": "Vítězství",
+      "5": "Současná",
+      "6": "Nejdelší",
+      "7": "Počet otázek na jednotlivou výhru. Barva sloupce ukazuje vzdálenost průměrného tipu od správné odpovědi."
+    },
+    "settings": {
+      "0": "Nastavení",
+      "1": "Hádejte s vědeckými jmény",
+      "2": "Jazyk",
+      "3": "Čeština",
+      "4": "Tmavý režim"
+    },
+    "practice": {
+      "0": "Cvičná hra",
+      "1": "Zahrajte si {{game}} kolikrát chcete!",
+      "2": "Nová cvičná hra",
+      "3": "Zpět k této cvičné hře"
+    },
+    "links": {
+      "0": "Odkazy",
+      "1": "Často kladené dotazy",
+      "2": "Zásady ochrany osobních údajů"
+    },
+    "twl": {
+      "0": "Účet",
+      "1": "Přidejte si <b>{{game}}</b> do svého TWL účtu",
+      "2": "Přihlásit se přes Google",
+      "3": "Přihlásit se přes Discord",
+      "4": "Přihlásit se k odběru newsletteru Trainwreck Labs",
+      "5": "Odstranit reklamy",
+      "6": "Odhlásit se",
+      "7": "Člen klubu"
+    },
+    "faq": {
+      "0": "Často kladené dotazy",
+      "1": {
+        "q": "Jak byly vybrány {{kingdom.generic}} do této hry?",
+        "a": "Druhy pro hru {{game}} byly vybrány na základě jejich obecné známosti a také tak, aby hra obsahovala širokou škálu druhů a byla díky tomu co možná nejzajímavější."
+      },
+      "2": {
+        "q": "Hra se mýlí! Na Wikipedii je pro některé {{kingdom.generic}} uvedená jiná klasifikace.",
+        "a": "o je možné. Klasifikace používaná ve hře vychází z taxonomie NCBI, což je nejpoužívanější taxonomie pro živočichy. Wikipedie často používá jinou široce používanou a uznávanou taxonomii, která je podobná, ale ne zcela stejná. Proto se mohou klasifikace některých druhů lišit."
+      },
+      "3": {
+        "q": "Why is there no \"Reptile\" or \"Reptilia\" class in the game?",
+        "a": "While some datasets, like Wikipedia, use the class Reptilia, the NCBI taxonomy does not. Instead, the NCBI taxonomy uses the class Sauropsida, which includes all reptiles and birds. This is because some of the animals commonly identified as reptiles have more in common with birds than they do with other reptiles. For example, crocodiles are more closely related to birds than they are to lizards."
+      },
+      "4": {
+        "q": "Why is \"domestic cat\" a possible guess but not \"domestic dog\"?",
+        "a": "This is because domestic cat's have their own species (\"Felis catus\"), but domestic dogs are usually classified as a subspecies of the wolf (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Má {{game}} zásady ochrany osobních údajů?",
+        "a": "Ano, má. Zobrazíte je kliknutím na tento odkaz: <a href=\"/privacy-policy\" class=\"underline\">Zásady ochrany osobních údajů</a>."
+      }
+    }
+  }
+}
